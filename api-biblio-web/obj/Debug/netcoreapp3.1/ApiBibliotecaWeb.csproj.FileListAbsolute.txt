@@ -1,0 +1,122 @@
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\ApiBibliotecaWeb.exe
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\ApiBibliotecaWeb.csprojAssemblyReference.cache
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\ApiBibliotecaWeb.AssemblyInfoInputs.cache
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\ApiBibliotecaWeb.AssemblyInfo.cs
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\ApiBibliotecaWeb.RazorTargetAssemblyInfo.cache
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\staticwebassets\ApiBibliotecaWeb.StaticWebAssets.Manifest.cache
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\staticwebassets\ApiBibliotecaWeb.StaticWebAssets.xml
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\ApiBibliotecaWeb.csproj.CopyComplete
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\ApiBibliotecaWeb.deps.json
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\ApiBibliotecaWeb.runtimeconfig.json
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\ApiBibliotecaWeb.runtimeconfig.dev.json
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\ApiBibliotecaWeb.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\ApiBibliotecaWeb.pdb
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\ApiBibliotecaWeb.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\ApiBibliotecaWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\ApiBibliotecaWeb.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\ApiBibliotecaWeb.pdb
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\ApiBibliotecaWeb.genruntimeconfig.cache
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documentos\Proyectos\c#\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\ApiBibliotecaWeb.exe
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\ApiBibliotecaWeb.deps.json
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\ApiBibliotecaWeb.runtimeconfig.json
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\ApiBibliotecaWeb.runtimeconfig.dev.json
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\ApiBibliotecaWeb.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\ApiBibliotecaWeb.pdb
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\ApiBibliotecaWeb.csprojAssemblyReference.cache
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\ApiBibliotecaWeb.AssemblyInfoInputs.cache
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\ApiBibliotecaWeb.AssemblyInfo.cs
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\ApiBibliotecaWeb.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\ApiBibliotecaWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\staticwebassets\ApiBibliotecaWeb.StaticWebAssets.Manifest.cache
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\staticwebassets\ApiBibliotecaWeb.StaticWebAssets.xml
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiBibliotecaWeb.styles.css
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\ApiBibliotecaWeb.RazorTargetAssemblyInfo.cache
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\ApiBibliotecaWeb.csproj.CopyComplete
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\ApiBibliotecaWeb.dll
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\ApiBibliotecaWeb.pdb
+D:\Documentos\Proyectos\c#\Biblio Web\BibliotecaWeb\ApiBibliotecaWeb\obj\Debug\netcoreapp3.1\ApiBibliotecaWeb.genruntimeconfig.cache
